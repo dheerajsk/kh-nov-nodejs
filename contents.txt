@@ -1,0 +1,38 @@
+
+Intro to NodeJS. - Done.
+Async Programming. - Done.
+How NodeJS works. - Done.
+Event Loop. - Done.
+
+Callbacks.
+Promises
+async-await.
+
+Servers and web communications.
+Creating Server in Node.
+Intro Express
+Create Server using Express.
+REST API/API.
+API Methods.
+Get API.
+POST api.
+PUT api.
+Delete api.
+Body Parser.
+Routers in Express.
+Middlewares.
+Securing API.
+API integration in react.
+MongoDB.
+Installing mongodb.
+creating databases.
+connecting from node to mongodb.
+Adding documents.
+Retriving docs.
+updating docs.
+deleting docs.
+Layered Architecture.
+Schemas.
+
+Mongoose.
+Redux.

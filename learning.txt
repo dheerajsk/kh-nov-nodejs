@@ -1,0 +1,28 @@
+
+
+JS => Programming Language.
+React => JS Library.
+
+NodeJS.
+
+=> What is NodeJS. - Done.
+    Language, - No.
+    Framework -  No.
+    Library - No.
+    Runtime Environment - Yes.
+
+=> What is Runtime env, and why need it ? - Done.
+=> Why it is needed.
+
+
+What is Async programming.
+Multi tasking
+context switching.
+multi processing.
+multi threading.
+JS is a single-threaded programming language.
+Java, C#, Python is multi-threaded programming language.
+
+JS is (in many cases) faster than C#, Java, Python.
+
+=> How JS/NodeJS works ?
