@@ -5,12 +5,12 @@ console.log("Task 1");
 fs.readFile("./learning.txt", afteFileRead);
 console.log("Task 3");
 
-function afteFileRead(err, data){
-    if(err){
-        console.log(err);
+function afteFileRead(data){
+    if(error){
+        console.log(error);
     }else{
         console.log("File Data is here....");
         console.log(data.toString());
-        
+
     }
 }

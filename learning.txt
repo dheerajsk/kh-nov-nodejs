@@ -26,3 +26,7 @@ Java, C#, Python is multi-threaded programming language.
 JS is (in many cases) faster than C#, Java, Python.
 
 => How JS/NodeJS works ?
+
+
+1. Lack of proper error handling.
+2. Loss of control over code.

@@ -4,7 +4,7 @@ Async Programming. - Done.
 How NodeJS works. - Done.
 Event Loop. - Done.
 
-Callbacks.
+Callbacks. - Done.
 Promises
 async-await.
 
