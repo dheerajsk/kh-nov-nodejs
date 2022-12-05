@@ -6,7 +6,7 @@ Event Loop. - Done.
 
 Callbacks. - Done.
 Promises - Done.
-async-await.
+async-await. - Done.
 
 Servers and web communications.
 Creating Server in Node.

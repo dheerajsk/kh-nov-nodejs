@@ -6,10 +6,10 @@ module.exports.verifyCard = ()=>{
     const promise = new Promise((resolve, reject)=>{
         setTimeout(()=>{
             // console.log();
-            // resolve();
-            // resolve();
+            // resolve("Resolved");
+            resolve();
             reject("Card couldn't be verified");
-            reject("Card couldn't be verified");
+            // reject("Card couldn't be verified");
         }, 1000);
     });
     return promise;
