@@ -5,7 +5,7 @@ How NodeJS works. - Done.
 Event Loop. - Done.
 
 Callbacks. - Done.
-Promises
+Promises - Done.
 async-await.
 
 Servers and web communications.

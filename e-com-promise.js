@@ -11,8 +11,12 @@ function placeOrder(){
             deductAmount();
         },
         // called when promise is rejected.
-        ()=>{}
-    )
+        // (error)=>{
+        //     console.log(error);
+        // }
+    ).catch(err=>{
+        console.log(err);
+    })
 }
 
 function deductAmount(){

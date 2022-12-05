@@ -5,9 +5,11 @@ module.exports.verifyCard = ()=>{
     // either resolves or rejects.
     const promise = new Promise((resolve, reject)=>{
         setTimeout(()=>{
-            console.log("Card verified");
-            resolve();
-            resolve();
+            // console.log();
+            // resolve();
+            // resolve();
+            reject("Card couldn't be verified");
+            reject("Card couldn't be verified");
         }, 1000);
     });
     return promise;
